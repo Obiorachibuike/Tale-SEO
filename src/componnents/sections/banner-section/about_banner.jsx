@@ -5,7 +5,7 @@ function Aboutbanner() {
     <div>
       <div className="page-heading">
         <div className="container">
-            <img src="../images/banner-left.png" alt="" className="small " />
+            <img src="/images/banner-left.png" alt="" className="small " />
           <div className="row about-banner">
             <div className="col-lg-7 align-self-center">
               <div className="caption  header-text">

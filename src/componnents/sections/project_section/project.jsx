@@ -5,72 +5,72 @@ function Project() {
   const project = [
     {
       title: "Best Responsive Website Layouts",
-      image: "../images/projects-03.jpg",
+      image: "/images/projects-03.jpg",
       href: "#",
     },
     {
       title: "HTML CSS Layouts for your websites",
-      image: "../images/projects-04.jpg",
+      image: "/images/projects-04.jpg",
       href: "#",
     },
     {
       title: "Bootstrap 5 Themes for Free",
-      image: "../images/projects-02.jpg",
+      image: "/images/projects-02.jpg",
       href: "#",
     },
     {
       title: "Mobile Friendly Website Layouts",
-      image: "../images/projects-03.jpg",
+      image: "/images/projects-03.jpg",
       href: "#",
     },
     {
       title: "Digital Agency HTML Templates",
-      image: "../images/projects-01.jpg",
+      image: "/images/projects-01.jpg",
       href: "#",
     },
     {
       title: "Admin Dashboard CSS Templates",
-      image: "../images/projects-02.jpg",
+      image: "/images/projects-02.jpg",
       href: "#",
     },
     {
       title: "Best Responsive Website Layouts",
-      image: "../images/projects-03.jpg",
+      image: "/images/projects-03.jpg",
       href: "#",
     },
     {
       title: "HTML CSS Layouts for your websites",
-      image: "../images/projects-04.jpg",
+      image: "/images/projects-04.jpg",
       href: "#",
     },
     {
       title: "Bootstrap 5 Themes for Free",
-      image: "../images/projects-02.jpg",
+      image: "/images/projects-02.jpg",
       href: "#",
     },
     {
       title: "Mobile Friendly Website Layouts",
-      image: "../images/projects-03.jpg",
+      image: "/images/projects-03.jpg",
       href: "#",
     },
     {
       title: "Digital Agency HTML Templates",
-      image: "../images/projects-01.jpg",
+      image: "/images/projects-01.jpg",
       href: "#",
     },
     {
       title: "Admin Dashboard CSS Templates",
-      image: "../images/projects-02.jpg",
+      image: "/images/projects-02.jpg",
       href: "#",
     },
     {
       title: "Best Responsive Website Layouts",
-      image: "../images/projects-03.jpg",
+      image: "/images/projects-03.jpg",
       href: "#",
     },
     {
       title: "HTML CSS Layouts for your websites",
-      image: "../images/projects-04.jpg",
+      image: "/images/projects-04.jpg",
       href: "#",
     },
   ];

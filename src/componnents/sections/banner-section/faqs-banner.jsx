@@ -5,7 +5,7 @@ function FaqsBanner() {
     <div>
         <div className="page-heading">
     <div className="container">
-    <img src="../images/banner-left.png" alt="" className="small " />
+    <img src="/images/banner-left.png" alt="" className="small " />
       <div className="row faqs-banner">
         <div className="col-lg-7 align-self-center">
           <div className="caption  header-text">
@@ -15,7 +15,7 @@ function FaqsBanner() {
           </div>
         </div>
         <div className="col-lg-5">
-          <img src="../images/faqs-image.jpg" alt="" className="faqs-image"/>
+          <img src="/images/faqs-image.jpg" alt="" className="faqs-image"/>
         </div>
       </div>
     </div>

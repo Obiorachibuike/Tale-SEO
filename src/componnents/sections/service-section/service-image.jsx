@@ -8,10 +8,10 @@ function ServiceImage() {
             <div className="service-cont">
                 <div className="service-content">
                     <div className="service-left">
-                        <img src="../images/services-left.jpg" alt="" className="service1" />
+                        <img src="/images/services-left.jpg" alt="" className="service1" />
                     </div>
                     <div className="service-right">
-                        <img src="../images/contact-left.jpg" alt="" className="service2" />
+                        <img src="/images/contact-left.jpg" alt="" className="service2" />
                     </div>
                     {/* <BannerDetails /> */}
                 </div>

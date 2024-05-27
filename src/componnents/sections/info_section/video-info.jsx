@@ -8,7 +8,7 @@ function VideoInfo() {
       <div className="row video">
         <div className="col-lg-6">
           <div className="video-thumb">
-            <img src="../images/video-thumb.jpg" alt="" />
+            <img src="/images/video-thumb.jpg" alt="" />
             <a href="http://youtube.com" target="_blank" rel="noreferrer"><i className="fa fa-play" /></a>
           </div>
         </div>

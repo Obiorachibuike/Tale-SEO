@@ -5,7 +5,7 @@ function Client() {
   const templete = [
     {
       item: "active",
-      image: " ../images/happyclient-01.jpg",
+      image: "/images/happyclient-01.jpg",
       title: "Best CSS Templates for you ",
       text: ` Lorem ipsum dolor sit amet, consectetur
       adipiscing elit, sed doers eiusmod kent tempor
@@ -17,7 +17,7 @@ function Client() {
     },
     {
       item: "active",
-      image: " ../images/happyclient-01.jpg",
+      image: "/images/happyclient-01.jpg",
       title: " Detailed Information On What We Do",
       text: ` Lorem ipsum dolor sit amet, consectetur
       adipiscing elit, sed doers eiusmod kent tempor
@@ -29,7 +29,7 @@ function Client() {
     },
     {
       item: "active",
-      image: " ../images/happyclient-01.jpg",
+      image: "/images/happyclient-01.jpg",
       title: "Responsive HTML CSS Templates ",
       text: ` Lorem ipsum dolor sit amet, consectetur
       adipiscing elit, sed doers eiusmod kent tempor
@@ -41,7 +41,7 @@ function Client() {
     },
     {
       item: "active",
-      image: " ../images/happyclient-01.jpg",
+      image: "/images/happyclient-01.jpg",
       title: "   Detailed Information about SEO Techniques",
       text: ` Lorem ipsum dolor sit amet, consectetur
       adipiscing elit, sed doers eiusmod kent tempor
@@ -70,8 +70,8 @@ function Client() {
     <div>
       <div className="happy-clients section">
         <div className="container">
-        <img src="../images/contact-left.jpg" alt="" className="left" />
-          <img src="../images/contact-left.jpg" alt="" className="right" />
+        <img src=/images/contact-left.jpg" alt="" className="left" />
+          <img src=/images/contact-left.jpg" alt="" className="right" />
           <div className="row">
             <div className="col-lg-12">
               <div className="section-heading">

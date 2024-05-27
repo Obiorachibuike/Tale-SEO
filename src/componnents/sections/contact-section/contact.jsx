@@ -6,8 +6,8 @@ function Contact() {
       <div className="contact-us section" id="contact">
         <div className="container">
           <div className="row">
-            <img src="../images/contact-left.jpg" alt="" className="left" />
-            <img src="../images/contact-left.jpg" alt="" className="right" />
+            <img src="/images/contact-left.jpg" alt="" className="left" />
+            <img src="/images/contact-left.jpg" alt="" className="right" />
             <div className="col-lg-12">
               <div className="contact-us-content">
                 <div className="row apply">

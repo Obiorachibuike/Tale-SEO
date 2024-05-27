@@ -5,8 +5,8 @@ function Question() {
     <div>
       <div className="most-asked section">
         <div className="confirmer">
-          <img src="../images/contact-left.jpg" alt="" className="left" />
-          <img src="../images/contact-left.jpg" alt="" className="right" />
+          <img src="/images/contact-left.jpg" alt="" className="left" />
+          <img src="/images/contact-left.jpg" alt="" className="right" />
           <div className="row justify">
             <div className="col-lg-12">
               <div className="section-heading">

@@ -10,10 +10,10 @@ function Banner() {
             <div className="banner-cont">
                 <div className="banner-content">
                     <div className="banner-left">
-                        <img src="../images/banner-left.png" alt="" className="banner1" />
+                        <img src="/images/banner-left.png" alt="" className="banner1" />
                     </div>
                     <div className="banner-right">
-                        <img src="../images/banner-right.png" alt="" className="banner2" />
+                        <img src="/images/banner-right.png" alt="" className="banner2" />
                     </div>
                     <BannerDetails />
                 </div>
